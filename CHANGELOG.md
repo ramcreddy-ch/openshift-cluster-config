@@ -4,3 +4,4 @@
 - Fix minor typos (2021-5-4 15:30:00)
 - Update dependencies (2021-10-10 15:40:00)
 - Add inline comments for clarity (2021-9-8 11:50:00)
+- Enhance error handling (2021-6-27 16:05:00)
